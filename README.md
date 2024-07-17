@@ -21,8 +21,6 @@ To play the game, follow these steps:
 2. Open the `index.html` file in your preferred IDE.
 3. You may need to open `style.css` and `game.js` and all other files in your IDE.
 
-Alternatively, you can play the game online by visiting [GitHub Pages](#) (replace "#" with the actual URL of your hosted game if applicable).
-
 ## How to Play
 
 You can play the Drum Kit using both mouse clicks and keyboard presses:
